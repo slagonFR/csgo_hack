@@ -1,3 +1,0 @@
-C:/Users/lipat/Documents/projects/pzdc/cmake-build-debug/CMakeFiles/pzdc.dir
-C:/Users/lipat/Documents/projects/pzdc/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lipat/Documents/projects/pzdc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
